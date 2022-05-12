@@ -19,7 +19,7 @@ This is a research list of WKU AI LAB.
 # Natural Language Processing
 2022.3.1 - 2022.6.1
 "ProtSi: Prototypical Siamese Network for Few-Shot Subjective Answer Evaluation" \
-**Yining Lu, Jingxi Qiu, Gaurav Gupta**
+**Yining Lu, Jingxi Qiu, Gaurav Gupta** \
 [Official Tensorflow](https://github.com/yining610/ProtSi-Network)
 
 ## Others
