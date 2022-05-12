@@ -16,6 +16,12 @@ This is a research list of WKU AI LAB.
 [WACV 2022 Paper Link](https://arxiv.org/abs/2111.08892) \
 [Official Pytorch](https://github.com/ShenZheng2000/SAPNet-for-image-deraining)
 
+# Natural Language Processing
+2022.3.1 - 2022.6.1
+"ProtSi: Prototypical Siamese Network for Few-Shot Subjective Answer Evaluation"
+**Yining Lu, Jingxi Qiu, Gaurav Gupta**
+[Official Tensorflow](https://github.com/yining610/ProtSi-Network)
+
 ## Others
 2021.9.27 - 2021.12.31 \
 "Functional Optimization Reinforcement Learning for Real-Time Bidding" \
